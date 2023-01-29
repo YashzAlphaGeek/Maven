@@ -1,5 +1,11 @@
 # Maven
 
+## Maven Project
++ Maven has the ability to download dependencies automatically based on the dependencies block you put in respective maven project’s pom.xml file.Maven is a powerful project management tool that is based on POM (project object model). It is used for projects build, dependency and documentation.POM is an acronym for Project Object Model. It contains information about project and configuration of the project such as dependencies, build directory, source directory, test source directory, plugins, goal, etc. Maven reads pom.xml and then executes goal.
++ Open Source Build Tool developed by the Apache Group
++ Take cares of the Builds, Dependencies, Reports, Distribution, Releases & Mailing List
++ Helps in getting the right JAR files for each project from (mvnrespository.com)
+
 ## Maven Core Concepts:
 
 ### Project Object Model
